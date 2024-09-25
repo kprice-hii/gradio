@@ -1,5 +1,12 @@
 # gradio
 
+## 5.0.0-beta.4
+
+### Features
+
+- [#9406](https://github.com/gradio-app/gradio/pull/9406) [`74f3b9d`](https://github.com/gradio-app/gradio/commit/74f3b9ded1ce0ff6f2f0dbcb113edd64b7bb8f60) - Allow skipping an arbitrary number of output components, and also raise a warning if the number of output components does not match the number of values returned from a function.  Thanks @abidlabs!
+- [#9413](https://github.com/gradio-app/gradio/pull/9413) [`a16787a`](https://github.com/gradio-app/gradio/commit/a16787abdc8d507d75b986dbe882d21be4540908) - Lite: HTTPX client improvement.  Thanks @whitphx!
+
 ## 5.0.0-beta.3
 
 ### Features
